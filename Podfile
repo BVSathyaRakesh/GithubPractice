@@ -6,5 +6,5 @@ target 'GithubPractice' do
   use_frameworks!
   pod 'Alamofire', '~> 5.2'
   # Pods for GithubPractice
-
+  pod 'IQKeyboardManagerSwift', '6.3.0'
 end
